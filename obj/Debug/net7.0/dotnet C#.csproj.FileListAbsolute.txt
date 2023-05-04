@@ -1,0 +1,15 @@
+C:\Users\Tecno\Desktop\dotnet C#\bin\Debug\net7.0\dotnet C#.exe
+C:\Users\Tecno\Desktop\dotnet C#\bin\Debug\net7.0\dotnet C#.deps.json
+C:\Users\Tecno\Desktop\dotnet C#\bin\Debug\net7.0\dotnet C#.runtimeconfig.json
+C:\Users\Tecno\Desktop\dotnet C#\bin\Debug\net7.0\dotnet C#.dll
+C:\Users\Tecno\Desktop\dotnet C#\bin\Debug\net7.0\dotnet C#.pdb
+C:\Users\Tecno\Desktop\dotnet C#\obj\Debug\net7.0\dotnet C#.csproj.AssemblyReference.cache
+C:\Users\Tecno\Desktop\dotnet C#\obj\Debug\net7.0\dotnet C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecno\Desktop\dotnet C#\obj\Debug\net7.0\dotnet C#.AssemblyInfoInputs.cache
+C:\Users\Tecno\Desktop\dotnet C#\obj\Debug\net7.0\dotnet C#.AssemblyInfo.cs
+C:\Users\Tecno\Desktop\dotnet C#\obj\Debug\net7.0\dotnet C#.csproj.CoreCompileInputs.cache
+C:\Users\Tecno\Desktop\dotnet C#\obj\Debug\net7.0\dotnet C#.dll
+C:\Users\Tecno\Desktop\dotnet C#\obj\Debug\net7.0\refint\dotnet C#.dll
+C:\Users\Tecno\Desktop\dotnet C#\obj\Debug\net7.0\dotnet C#.pdb
+C:\Users\Tecno\Desktop\dotnet C#\obj\Debug\net7.0\dotnet C#.genruntimeconfig.cache
+C:\Users\Tecno\Desktop\dotnet C#\obj\Debug\net7.0\ref\dotnet C#.dll
